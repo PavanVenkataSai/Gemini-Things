@@ -1,0 +1,12 @@
+streamlit
+PyPDF2
+langchain-google-genai
+python-dotenv
+transformers==4.38.1
+python-dotenv
+llama-index==0.10.12
+gradio
+einops
+llama-index-llms-huggingface
+llama-index-embeddings-fastembed
+fastembed
